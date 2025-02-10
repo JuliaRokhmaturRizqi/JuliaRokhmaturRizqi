@@ -1,5 +1,5 @@
 # About me
-<br><br>Interests & Skills<br>💻 Programming: Python, Front-End Development (HTML, CSS, JavaScript)<br>🎨 Creative Design: Basic UI/UX & Graphic Design<br>🎮 Game Development: Learning the basics of game mechanics in Python<br><br>Projects & Work<br>🚀 Learning Front-End Development: Building simple web pages and interactive components<br>🎮 Python Game Project: Experimenting with game mechanics using Python<br><br>Let's Connect!<br>✉️ Email: juliarohmaturrizqi@gmail.com<br><br>I'm open to learning, collaborating, and sharing knowledge. Feel free to reach out!<br><br>
+<br><br>Interests & Skills<br>💻 Programming: Currently learning Python and Front-End Development (HTML, CSS, JavaScript)<br>🎨 Creative Design: Exploring Basic UI/UX & Graphic Design<br>🎮 Game Development: Learning fundamental game mechanics using Python<br><br>Projects & Work<br>🚀 Learning Front-End Development: Building simple web pages and interactive components<br>🎮 Python Game Project: Experimenting with game mechanics using Python<br><br>Let's Connect!<br>✉️ Email: juliarohmaturrizqi@gmail.com<br><br>I'm open to learning, collaborating, and sharing knowledge. Feel free to reach out!<br><br>
 
 
 ## 🌐 Socials:
